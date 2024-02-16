@@ -154,5 +154,5 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          # Тут вместо username должен быть ваш логин на Docker Hub
+          # Тутвместо username должен быть ваш логин на Docker Hub
           tags: aragon1025/taski_gateway:latest 
